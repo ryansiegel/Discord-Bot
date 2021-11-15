@@ -8,7 +8,7 @@ from dateutil.relativedelta import *
 
 bot = commands.Bot(command_prefix='>', description="This is a Helper Bot")
 
-#This script is scheduled to run via task scheduled every other Wednesday. In progress to migarte this script to the main script (seagullbot & commands)
+#This script is scheduled to run via task scheduled every other Wednesday. In progress to migrate this script to the main script (seagullbot & commands)
 @client.event
 async def on_ready():                                   # Upon starting script, posts on the CMD screen the following messages below
     datee = str(datetime.date(datetime.now() + timedelta(days=14)))
