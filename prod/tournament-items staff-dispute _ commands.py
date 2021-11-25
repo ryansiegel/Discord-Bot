@@ -1,5 +1,5 @@
 async def staffdispute(inter, channelPrint, bot, trainer1, trainer2):
-    currentDB = str('server' + str(inter.guild.id))
+    currentDB = 'HIDDEN INFORMATION'
     valid_roles = [y.name.lower() for y in inter.author.roles]
     yesRole = 'no'
     connection = pymysql.connect(user='INSERT USER HERE', password='INSERT PASSWORD HERE', db=currentDB)  # open connection to mysql
