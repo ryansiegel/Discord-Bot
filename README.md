@@ -1,5 +1,6 @@
 # Seagull-Assistant-Bot
-*https://www.seagullsbot.com - direct link to add the bot to a users Discord server.*
+*https://seagullsbot.com - direct link to add the bot to a users Discord server.*
+*https://seagullsperch.com - direct link to the bot's Discord server meant to be used for testing and bot help for users.*
 
 A Pokemon Go discord bot helper. The main purpose is to help tournament staff host tournaments with as many resources at their fingertips as possible while also being a resource for those in the tournament. The bot also has other things like it keeps track of local nests for a community, handles reminders for different items, and more.
 
